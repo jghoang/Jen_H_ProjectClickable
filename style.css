@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: linear-gradient(to bottom,gray, black);
+}
+.navbar {
+    margin-bottom: 0px !important;
+}
+.navbar-toggler {
+    background-color: grey !important;
+}
+a {
+    color: white !important;
+}
+.bg-light {
+    background: black !important; 
+}
+.btn.cart {
+    background-color: white;
+}
+
+.jumbotron {
+    background-image: url("back.png");
+    opacity: 0.7;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: black;
+}
+.display-4, p.lead {
+    font-weight: bold;
+}
+p.lead {
+    font-size: 2em;
+}
+.btn {
+    margin: 1%;
+}
+
+.col-md-4 {
+    text-align: center;
+    background-color: bisque;
+    
+}
+.btn-secondary {
+    background-color: transparent;
+    color: black;
+
+}
+
+img.d-block.w-100 {
+    max-height: 40em !important;
+   
+}
+.w-100 {
+    max-width: 50% !important;
+}
+footer {
+    margin-top: 2%;
+    text-align: center;
+}
+
+aside {
+    width: 20%;
+    height: 20em;
+    /* margin: 5%; */
+}
+.main {
+   background-color: white;
+   padding: 1em;
+}
+.card-deck {
+    width: 60%;
+    position: relative;
+    top: -300px;
+    left: 35%;
+    
+}
